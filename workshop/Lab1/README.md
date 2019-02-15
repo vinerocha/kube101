@@ -1,4 +1,4 @@
-# Lab 1. Set up and deploy your first application
+# Lab 1. Prepare e faça o deploy da sua primeira aplicação
 
 Learn how to deploy an application to a Kubernetes cluster hosted within
 the IBM Container Service.
